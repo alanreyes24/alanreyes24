@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Alan Reyes
+### Hey 👋, I'm Alan Reyes
 
-I'm currently working on learning Django and working on my project 'bettertyping', a website designed for helping people improve their typing.
+I'm currently learning Django / React and working on my project 'bettertyping', a website designed for helping people improve their typing by using AI.
 
 <!--
 **alanreyes24/alanreyes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
