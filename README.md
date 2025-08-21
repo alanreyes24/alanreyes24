@@ -9,4 +9,4 @@ In addition to my development projects, I am an **undergraduate researcher** at 
 
 ## 📫 How to Reach Me
 - **Email**: [alanreyes6747@gmail.com](mailto:alanreyes6747@gmail.com)
-- **LinkedIn**: [linkedin.com/in/alan-a-reyes](https://linkedin.com/in/alanreyes)
+- **LinkedIn**: [linkedin.com/in/alan-a-reyes](https://linkedin.com/in/alan-a-reyes)
